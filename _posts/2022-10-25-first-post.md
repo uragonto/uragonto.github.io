@@ -1,9 +1,11 @@
 ---
 title: Site Goals
-date: 2022-10-26 11:34:00 -500
+author: xxx
+date: 2022-10-25 18:32:00 -0500
 categories: [misc]
 tags: [goal] # TAG names should always be lowercase
 ---
+
 
 # Welcome
 
@@ -19,7 +21,7 @@ Content:
 print(f"test")
 ```
 
-``` 
+``` bat
 bundle exec jekyll s
 ```
 
